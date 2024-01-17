@@ -1,0 +1,25 @@
+Procopy session begin for delsuckahh on batch. (451)
+
+Formatting extents:
+   size                area name   path name
+      4    Primary Recovery Area C:\Progressio\helloworld\target\db\db.b1 00:00:00
+     16              Schema Area C:\Progressio\helloworld\target\db\db.d1 00:00:00
+
+Copying C:\Progress\OpenEdge\empty8 to db... (6715)
+
+Start writing data blocks. (6718)
+15:05:47 10 Percent complete.
+15:05:47 20 Percent complete.
+15:05:47 30 Percent complete.
+15:05:47 40 Percent complete.
+15:05:47 50 Percent complete.
+15:05:47 60 Percent complete.
+15:05:47 70 Percent complete.
+15:05:47 80 Percent complete.
+15:05:47 90 Percent complete.
+15:05:47 100 Percent complete.
+405 blocks copied. (6720)
+
+...Copy complete. (6722)
+Database copied from C:\Progress\OpenEdge\empty8. (1365)
+Procopy session end. (334)

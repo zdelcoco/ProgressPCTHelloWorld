@@ -5,9 +5,19 @@
  <typedef resource="types.properties" />
 
  <target name="build" description="Builds source files">
-  <mkdir dir="target/oe" />
+  <mkdir dir="target/oe" />   
+  <mkdir dir="target/db" />
+  <PCTCreateDatabase dbName="db" destDir="target/db" schemaFile="db/db.df" dlcHome="${env.DLC}" />
   <PCTCompile destDir="target/oe" dlcHome="${env.DLC}">
+	<propath>
+	  <pathelement location="pdfinc-src"/>
+	</propath>
    <fileset dir="src/oe" includes="*.p" />
+   <DBConnection dbName="db" dbDir="target/db" singleUser="true"/>
   </PCTCompile>
  </target>
 </project>
+
+
+
+

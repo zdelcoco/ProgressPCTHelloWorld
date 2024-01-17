@@ -1,0 +1,57 @@
+
+                Wed Jan 17 15:07:59 2024
+[2024/01/17@15:07:59.120-0600] P-8032       T-13248 I DBUTIL   : (19399) Database with large file support enabled is being opened under sub-Enterprise license.  Large file support will be disabled. 
+[2024/01/17@15:07:59.120-0600] P-8032       T-13248 I DBUTIL   : (451)   prostrct create session begin for delsuckahh on batch. 
+[2024/01/17@15:07:59.121-0600] P-8032       T-13248 I DBUTIL   : (19399) Database with large file support enabled is being opened under sub-Enterprise license.  Large file support will be disabled. 
+[2024/01/17@15:07:59.123-0600] P-8032       T-13248 I DBUTIL   : (12862) Structure file db.st used to create database with blocksize 8192. 
+[2024/01/17@15:07:59.124-0600] P-8032       T-13248 I DBUTIL   : (334)   prostrct create session end. 
+[2024/01/17@15:07:59.135-0600] P-8032       T-13248 I DBUTIL   : (451)   procopy session begin for delsuckahh on batch. 
+[2024/01/17@15:07:59.150-0600] P-8032       T-13248 I DBUTIL   : (334)   procopy session end. 
+
+                Wed Jan 17 15:07:59 2024
+[2024/01/17@15:07:59.166-0600] P-8032       T-13248 I DBUTIL   : (451)   procopy get default SQL DBA session begin for delsuckahh on batch. 
+[2024/01/17@15:07:59.166-0600] P-8032       T-13248 I DBUTIL   : (15321) Before Image Log Initialization at block 0  offset 0. 
+[2024/01/17@15:07:59.173-0600] P-8032       T-13248 I DBUTIL   : (1365)  Database copied from C:\Progress\OpenEdge\empty8. 
+[2024/01/17@15:07:59.174-0600] P-8032       T-13248 I DBUTIL   : (15109) At Database close the number of live transactions is 0. 
+[2024/01/17@15:07:59.174-0600] P-8032       T-13248 I DBUTIL   : (15743) Before Image Log Completion at Block 0 Offset 654. 
+[2024/01/17@15:07:59.175-0600] P-8032       T-13248 I DBUTIL   : (334)   procopy get default SQL DBA session end. 
+
+                Wed Jan 17 15:07:59 2024
+[2024/01/17@15:07:59.341-0600] P-12348      T-12700 I ABL      : (451)   Single-user session begin for delsuckahh on batch. 
+[2024/01/17@15:07:59.341-0600] P-12348      T-12700 I ABL      : (15321) Before Image Log Initialization at block 0  offset 654. 
+[2024/01/17@15:07:59.349-0600] P-12348      T-12700 I ABL      : (7129)  Usr 0 set name to delsuckahh. 
+[2024/01/17@15:07:59.382-0600] P-12348      T-12700 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2024/01/17@15:07:59.382-0600] P-12348      T-12700 I ABL      : (15743) Before Image Log Completion at Block 2 Offset 2313. 
+[2024/01/17@15:07:59.383-0600] P-12348      T-12700 I ABL      : (334)   Single-user session end. 
+
+                Wed Jan 17 15:07:59 2024
+[2024/01/17@15:07:59.565-0600] P-1952       T-2796  I ABL      : (451)   Single-user session begin for delsuckahh on batch. 
+[2024/01/17@15:07:59.565-0600] P-1952       T-2796  I ABL      : (15321) Before Image Log Initialization at block 2  offset 2313. 
+[2024/01/17@15:07:59.573-0600] P-1952       T-2796  I ABL      : (7129)  Usr 0 set name to delsuckahh. 
+[2024/01/17@15:07:59.609-0600] P-1952       T-2796  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2024/01/17@15:07:59.609-0600] P-1952       T-2796  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 2313. 
+[2024/01/17@15:07:59.610-0600] P-1952       T-2796  I ABL      : (334)   Single-user session end. 
+
+                Wed Jan 17 15:14:44 2024
+[2024/01/17@15:14:44.275-0600] P-3824       T-6016  I ABL      : (451)   Single-user session begin for delsuckahh on batch. 
+[2024/01/17@15:14:44.276-0600] P-3824       T-6016  I ABL      : (15321) Before Image Log Initialization at block 2  offset 2313. 
+[2024/01/17@15:14:44.284-0600] P-3824       T-6016  I ABL      : (7129)  Usr 0 set name to delsuckahh. 
+[2024/01/17@15:14:44.320-0600] P-3824       T-6016  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2024/01/17@15:14:44.320-0600] P-3824       T-6016  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 2313. 
+[2024/01/17@15:14:44.321-0600] P-3824       T-6016  I ABL      : (334)   Single-user session end. 
+
+                Wed Jan 17 15:15:31 2024
+[2024/01/17@15:15:31.344-0600] P-2344       T-9264  I ABL      : (451)   Single-user session begin for delsuckahh on batch. 
+[2024/01/17@15:15:31.345-0600] P-2344       T-9264  I ABL      : (15321) Before Image Log Initialization at block 2  offset 2313. 
+[2024/01/17@15:15:31.352-0600] P-2344       T-9264  I ABL      : (7129)  Usr 0 set name to delsuckahh. 
+[2024/01/17@15:15:31.385-0600] P-2344       T-9264  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2024/01/17@15:15:31.385-0600] P-2344       T-9264  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 2313. 
+[2024/01/17@15:15:31.386-0600] P-2344       T-9264  I ABL      : (334)   Single-user session end. 
+
+                Wed Jan 17 15:16:51 2024
+[2024/01/17@15:16:51.828-0600] P-9640       T-8904  I ABL      : (451)   Single-user session begin for delsuckahh on batch. 
+[2024/01/17@15:16:51.828-0600] P-9640       T-8904  I ABL      : (15321) Before Image Log Initialization at block 2  offset 2313. 
+[2024/01/17@15:16:51.836-0600] P-9640       T-8904  I ABL      : (7129)  Usr 0 set name to delsuckahh. 
+[2024/01/17@15:16:51.871-0600] P-9640       T-8904  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2024/01/17@15:16:51.871-0600] P-9640       T-8904  I ABL      : (15743) Before Image Log Completion at Block 2 Offset 2313. 
+[2024/01/17@15:16:51.872-0600] P-9640       T-8904  I ABL      : (334)   Single-user session end. 

@@ -1,0 +1,25 @@
+
+                Wed Jan 17 15:05:47 2024
+[2024/01/17@15:05:47.182-0600] P-3048       T-14240 I DBUTIL   : (19399) Database with large file support enabled is being opened under sub-Enterprise license.  Large file support will be disabled. 
+[2024/01/17@15:05:47.182-0600] P-3048       T-14240 I DBUTIL   : (451)   prostrct create session begin for delsuckahh on batch. 
+[2024/01/17@15:05:47.184-0600] P-3048       T-14240 I DBUTIL   : (19399) Database with large file support enabled is being opened under sub-Enterprise license.  Large file support will be disabled. 
+[2024/01/17@15:05:47.185-0600] P-3048       T-14240 I DBUTIL   : (12862) Structure file db.st used to create database with blocksize 8192. 
+[2024/01/17@15:05:47.186-0600] P-3048       T-14240 I DBUTIL   : (334)   prostrct create session end. 
+[2024/01/17@15:05:47.197-0600] P-3048       T-14240 I DBUTIL   : (451)   procopy session begin for delsuckahh on batch. 
+[2024/01/17@15:05:47.212-0600] P-3048       T-14240 I DBUTIL   : (334)   procopy session end. 
+
+                Wed Jan 17 15:05:47 2024
+[2024/01/17@15:05:47.228-0600] P-3048       T-14240 I DBUTIL   : (451)   procopy get default SQL DBA session begin for delsuckahh on batch. 
+[2024/01/17@15:05:47.228-0600] P-3048       T-14240 I DBUTIL   : (15321) Before Image Log Initialization at block 0  offset 0. 
+[2024/01/17@15:05:47.235-0600] P-3048       T-14240 I DBUTIL   : (1365)  Database copied from C:\Progress\OpenEdge\empty8. 
+[2024/01/17@15:05:47.237-0600] P-3048       T-14240 I DBUTIL   : (15109) At Database close the number of live transactions is 0. 
+[2024/01/17@15:05:47.237-0600] P-3048       T-14240 I DBUTIL   : (15743) Before Image Log Completion at Block 0 Offset 654. 
+[2024/01/17@15:05:47.238-0600] P-3048       T-14240 I DBUTIL   : (334)   procopy get default SQL DBA session end. 
+
+                Wed Jan 17 15:05:47 2024
+[2024/01/17@15:05:47.393-0600] P-14076      T-11512 I ABL      : (451)   Single-user session begin for delsuckahh on batch. 
+[2024/01/17@15:05:47.394-0600] P-14076      T-11512 I ABL      : (15321) Before Image Log Initialization at block 0  offset 654. 
+[2024/01/17@15:05:47.402-0600] P-14076      T-11512 I ABL      : (7129)  Usr 0 set name to delsuckahh. 
+[2024/01/17@15:05:47.434-0600] P-14076      T-11512 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2024/01/17@15:05:47.435-0600] P-14076      T-11512 I ABL      : (15743) Before Image Log Completion at Block 2 Offset 2313. 
+[2024/01/17@15:05:47.435-0600] P-14076      T-11512 I ABL      : (334)   Single-user session end. 
